@@ -1,5 +1,5 @@
 export const SITE = {
-  name: "John Doe",
+  name: "Abdul Rehman",
   title: "Full Stack Developer",
   description:
     "Crafting robust, scalable web experiences with Next.js, React, and cloud infrastructure.",
@@ -8,10 +8,10 @@ export const SITE = {
 };
 
 export const SOCIAL = {
-  github: "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  github: "https://github.com/likeam",
+  linkedin: "www.linkedin.com/in/abdul-rehman-b27a13241",
   twitter: "https://twitter.com/yourusername",
-  email: "mailto:you@example.com",
+  email: "likeam99@gmail.com",
 };
 
 export const SKILLS = [
