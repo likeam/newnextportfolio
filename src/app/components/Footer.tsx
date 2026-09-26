@@ -4,7 +4,7 @@ import Link from "next/link";
 export const Footer: React.FC = () => {
   return (
     <footer className="border-t border-border py-10 relative z-10">
-      <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4 text-text-muted text-sm">
+      <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6 text-text-muted text-sm">
         <p>&copy; {new Date().getFullYear()} Abdul Rehman</p>
         <div className="flex gap-6">
           <Link href="#home" className="hover:text-white transition-colors">
